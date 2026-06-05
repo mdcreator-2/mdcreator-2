@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 👋
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=2000&color=00FF00&width=1000&lines=Hi,+I'm+Md+Aamir;+Independent+Entrepreneur;+Full-Stack+&+App+Developer;+Game+Dev+&+DSA+Enthusiast)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=2000&color=00FF00&width=1000&lines=Hi,+I'm+Md+Aamir;+Independent+Entrepreneur;+Full-Stack+&+App+Developer;+Game+Dev+&+DSA+Enthusiast)
 
 <img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
 
@@ -65,7 +65,7 @@
   
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdcreator-2&layout=compact&theme=radical)
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mdcreator-2&theme=dark)
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=mdcreator-2&theme=dark)
   
   ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mdcreator-2&bg_color=1A1B27&color=66D9EF&line=9C27B0&point=FFFFFF&hide_border=true)
 
