@@ -9,7 +9,7 @@
 - 🎓 Pursuing a **B.Tech in Electronics Engineering (VLSI)** at **NIT Patna**.
 - 💻 **Full-stack & App Developer** whose main language is **Python**, with experience in **React**, **Flutter**, **PHP**, **Firebase**, and **FastAPI**.
 - 🎮 **Game Developer** experienced in the **Unity** engine with published titles.
-- 📈 Dedicated to **Data Structures and Algorithms (DSA)**, regularly practicing on **LeetCode**, and founder of the **CodeSprint** club.
+- 📈 Dedicated to **Development**, regularly working on **Projects**.
 - 🚀 Aspiring **Independent Entrepreneur** focused on building innovative startups, systems, and platforms.
 
 ---
