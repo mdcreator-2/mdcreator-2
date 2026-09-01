@@ -1,16 +1,17 @@
 # Welcome to My GitHub Profile! 👋
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=2000&color=00FF00&width=1000&lines=Hi,+I'm+Md+Aamir;+Independent+Entrepreneur;+Full-Stack+&+App+Developer;+Game+Dev+&+DSA+Enthusiast)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=2000&color=00FF00&width=1000&lines=Hi,+I'm+Mohmmad+Ameer;+Backend+&+AI+Developer;+Independent+Entrepreneur;+Game+Dev+&+DSA+Enthusiast)
 
 <img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
 
 ## 🚀 About Me
 
-- 🎓 Pursuing a **B.Tech in Electronics Engineering (VLSI)** at **NIT Patna**.
-- 💻 **Full-stack & App Developer** whose main language is **Python**, with experience in **React**, **Flutter**, **PHP**, **Firebase**, and **FastAPI**.
-- 🎮 **Game Developer** experienced in the **Unity** engine with published titles.
-- 📈 Dedicated to **Development**, regularly working on **Projects**.
-- 🚀 Aspiring **Independent Entrepreneur** focused on building innovative startups, systems, and platforms.
+- 🎓 Pursuing a **B.Tech in Electronics Engineering (VLSI)** at **NIT Patna** (2025-2029).
+- 💻 **Backend & AI Developer** specializing in **Python** & **FastAPI**, with full-stack experience across **React**, **Flutter**, **PHP**, and **PostgreSQL**.
+- 🧠 Consistent problem solver with **140+ LeetCode** problems solved in Python and a strong foundation in DSA.
+- 🎮 **Published Game Developer** experienced in the **Unity 3D** engine.
+- 🚀 Aspiring **Independent Entrepreneur** focused on building innovative startups, scalable systems, and automated pipelines.
+- 🤝 Member of the **HackSlash Technical Club** (CP/DSA & Flutter Development Teams).
 
 ---
 
@@ -26,34 +27,51 @@
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009485.svg?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### Databases, Game Dev & Backend
+### Databases, Cloud & DevOps
+![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
-### Operating Systems & IDEs
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+### Tools & Game Dev
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
-![Antigravity](https://img.shields.io/badge/Antigravity-20232A?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
 ## 🚀 Highlighted Projects & Experience
 
-### 🛍️ PeerFlow
-- A peer-to-peer campus marketplace and skill-barter web app built for hackathons to connect university students.
+### 🏛️ EE-VLSI Branch Legacy Portal
+- **Role:** Lead Backend Developer
+- Architected a production-grade REST API with layered architecture (Repository → Service → Router) using **Python, FastAPI, PostgreSQL, and SQLAlchemy**. Implemented Firebase Auth, custom RBAC, and containerized the deployment with **Docker Compose**.
 
-### 🎬 AI Video Clipping Pipeline (Work in Progress)
-- 🚧 Currently building a complex backend automation project divided into 20 modular mini-projects to process, clip, and manage video content using AI.
+### 🎬 AI Video Clipping Pipeline
+- **Role:** Architect & Lead Developer
+- Engineered a fully automated AI pipeline for video extraction, editing, and social media publishing using **Python, FastAPI, Redis, Qwen AI, AssemblyAI, OpenCV, and Mediapipe**. Implemented asynchronous job queuing and speaker-tracking.
+
+### 💻 SDE Internship at Astomverse & Freelance Work
+- Engineered and optimized technical features for immersive VR Ed-Tech applications at Astomverse.
+- As a Freelance Full-Stack Developer, managed end-to-end hosting, LAMP stack deployments, DNS, and SSL configurations on Google Cloud Platform.
 
 ### 🛸 Starwars.io 3D
-- A 3D space strategy game fully developed and published on the **Amazon Appstore**.
+- Solo-developed a complete 3D space strategy game featuring AI pathfinding (Finite State Machine) and physics-based interactions. Published on the **Amazon Appstore** during Class 9.
 
-### 💻 SDE Internship at Astomverse
-- Software Development Engineer intern contributing to a VR Ed-Tech startup.
+### 🛍️ PeerFlow
+- Full-stack developer for an intra-campus marketplace and skill-barter web app built with **React and Firebase** during a hackathon to connect university students.
 
-### 🌐 MuslimsOfIndia.com
-- A live WordPress website that I actively manage and maintain.
+---
+
+## 🏆 Achievements & Leadership
+
+- 🥇 **1st Place** – Intra-College Git & GitHub Technical Event, NIT Patna (2025)
+- 🧠 **JEE Main 2025** – 98.05 Percentile (Session 2)
+- 🎯 **Team Leader** – Cleared internal screening for Smart India Hackathon (1st Year)
+- 🥈 **Team Leader** – Secured 2nd Position out of 20 teams in DEW Entrepreneurship Workshop
+- 🧑‍💻 **Member** – HackSlash Technical Club (CP/DSA & Flutter Development Teams)
+- 💻 **140+ LeetCode Problems** solved
 
 ---
 
@@ -73,7 +91,7 @@
 
 ---
 
-## 🏆 GitHub Achievements
+## 🏅 GitHub Trophies
 
 ![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=mdcreator-2&theme=matrix&no-frame=true)
 
